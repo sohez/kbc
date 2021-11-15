@@ -1,20 +1,749 @@
 [
-
-{
-
-"ques" : "Q.Please Wate For Add Que",
-
-"a" : "A.aa",
-
-"b" : "B.b",
-
-"c" : "C.s",
-
-"d" : "D.Zoo",
-
-"ans" : "c",
-
-"max" : "Z1"
-
-}
+  {
+    "ques": "Q.Who is considered the inventor of www (world wide web)?",
+    "a": "A.Edward Kasner",
+    "b": "B.Bill Gates",
+    "c": "C.Tin Berners Lee",
+    "d": "D.Vinod Dham",
+    "ans": "c",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. The first developed computer language to program is-?",
+    "a": "A.FORTRAN",
+    "b": "B.PASCAL",
+    "c": "C.COBOL",
+    "d": "D.BASIC",
+    "ans": "a",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.When is Computer Literacy Day celebrated?",
+    "a": "A.5 December",
+    "b": "B.14 Dec",
+    "c": "C.22 December",
+    "d": "D.2 December",
+    "ans": "d",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.What is the full form of CPU?",
+    "a": "A.Central Processing Unit",
+    "b": "B.Central Problem Unit",
+    "c": "C.Central Processing Union",
+    "d": "D.None of these",
+    "ans": "a",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.Which of the following is not a search engine?",
+    "a": "A.Google",
+    "b": "B.Yahoo",
+    "c": "C.Baidu",
+    "d": "D.Apple",
+    "ans": "d",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.Which is the input device in these?",
+    "a": "A.mouse",
+    "b": "B.Keyboard",
+    "c": "C.scanner",
+    "d": "D.All of these",
+    "ans": "d",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.1 Kilobyte (KB) is equal to how many bytes?",
+    "a": "A.1024 Byte",
+    "b": "B.1024 megabytes",
+    "c": "C.1024 Gigabyte",
+    "d": "D.None of these",
+    "ans": "a",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.1 Megabyte (MB) is equal to how many bytes?",
+    "a": "A.1024 KB",
+    "b": "B.1024 Bit",
+    "c": "C.1024 GB",
+    "d": "D.1024 GB",
+    "ans": "a",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. Internet address is the correct full form of HTTP?",
+    "a": "A.higher text transfer protocol",
+    "b": "B.higher transfer tex protocol",
+    "c": "C.hyper text transfer protocol",
+    "d": "D.hybrid text transfer protocol",
+    "ans": "c",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. The IC chip used in computers is made?",
+    "a": "A.Chromium",
+    "b": "B.Silicone",
+    "c": "C.Silver",
+    "d": "D.Iron from Oakside",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. Since when did the great revolution come in the field of computer?",
+    "a": "A.1977",
+    "b": "B.2000",
+    "c": "C.1960",
+    "d": "D.1955",
+    "ans": "c",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. What was the name of the first computer?",
+    "a": "A.ATARIS",
+    "b": "B.TANDY",
+    "c": "C.NOVELLA",
+    "d": "D.ENIAC",
+    "ans": "d",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.Multi Processing is there?",
+    "a": "A.by a processor",
+    "b": "B.by more than one processor",
+    "c": "C.without any processor",
+    "d": "D.None of these",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. Which of the following is optical memory?",
+    "a": "A.CD–Rome",
+    "b": "B.Bubble Memories",
+    "c": "C.Floppy Disk",
+    "d": "D.Core Memories",
+    "ans": "a",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.What is the control, memory and third unit in CPU?",
+    "a": "A.micro",
+    "b": "B.Processor",
+    "c": "C.output",
+    "d": "D.arthmatic/logic",
+    "ans": "d",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. is in ALU of CPU?",
+    "a": "A.RAM Space",
+    "b": "B.register",
+    "c": "C.byte space",
+    "d": "D.All of these",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. Which part of computer is used for calculation and comparison?",
+    "a": "A.Disk Unit",
+    "b": "B.modem",
+    "c": "C.ALU",
+    "d": "D.Control Unit",
+    "ans": "c",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. A hardware device that converts data into semantic information?",
+    "a": "A.input device",
+    "b": "B.Program",
+    "c": "C.protector",
+    "d": "D.Processor",
+    "ans": "d",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. Processor has three main parts?",
+    "a": "A.ALU, Control Unit and Register",
+    "b": "B.ALU, Control Unit and RAM",
+    "c": "C.Cache, Control Unit and Registers",
+    "d": "D.None of these",
+    "ans": "a",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.Who controls the movement of signals between the CPU and I/O?",
+    "a": "A.None of these",
+    "b": "B.Memory Unit",
+    "c": "C.ALU",
+    "d": "D.Control Unit",
+    "ans": "d",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. What is the function of the central processing unit of the computer?",
+    "a": "A.deletes the data",
+    "b": "B.Creates Invoice",
+    "c": "C.Calculates and Processes",
+    "d": "D.None of these",
+    "ans": "c",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.Which of the following is not a basic function of a computer?",
+    "a": "A.Processing Data",
+    "b": "B.Scanning text",
+    "c": "C.Accepting Input",
+    "d": "D.Storing the data",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. In which computer most of the processing takes place?",
+    "a": "A.CPU",
+    "b": "B.memory",
+    "c": "C.motherboard",
+    "d": "D.RAM",
+    "ans": "a",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. Computer does not do which of the following functions?",
+    "a": "A.Processing",
+    "b": "B.Understanding",
+    "c": "C.Imputing",
+    "d": "D.output",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. With whose coordination does the main memory work?",
+    "a": "A.Intel",
+    "b": "B.Special Task Card",
+    "c": "C.RAM",
+    "d": "D.CPU",
+    "ans": "d",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. The microprocessor which is the brain of the computer is called?",
+    "a": "A.Microchip",
+    "b": "B.Software",
+    "c": "C.memory",
+    "d": "D.All is true",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. is the quantity produced by the computer?",
+    "a": "A.memory",
+    "b": "B.output",
+    "c": "C.data",
+    "d": "D.input",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. Input is converted into output?",
+    "a": "A.by memory",
+    "b": "B.By input and output",
+    "c": "C. C.P.U",
+    "d": "D.Control Unit",
+    "ans": "c",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. What is processed data called?",
+    "a": "A.output",
+    "b": "B.Process",
+    "c": "C.data",
+    "d": "D.input",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. is the main component of CPU?",
+    "a": "A.Control Unit",
+    "b": "B.memory",
+    "c": "C.Arithmetic Logic Unit",
+    "d": "D.All of these",
+    "ans": "d",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. What is the capacity of computer?",
+    "a": "A.Limited",
+    "b": "B.Unlimited",
+    "c": "C.Low",
+    "d": "D.High",
+    "ans": "a",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. What type of intelligence is called a computer?",
+    "a": "A.human",
+    "b": "B.net",
+    "c": "C.artificial",
+    "d": "D.Other",
+    "ans": "c",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. Human memory is comparable to that of computer?",
+    "a": "A.Low",
+    "b": "B.General",
+    "c": "C.high",
+    "d": "D.Average",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. Whose speed is more between human mind and computer?",
+    "a": "A.Computer",
+    "b": "B.human-mind",
+    "c": "C.Equal in both",
+    "d": "D.None of these",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.What is E.D.P?",
+    "a": "A.Electronic Data Power",
+    "b": "B.Electronic Data Personal",
+    "c": "C.Electronic Data Part",
+    "d": "D.Electronic Data Processing",
+    "ans": "d",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. What is information in computer called?",
+    "a": "A. Collected Data",
+    "b": "B.Numbers",
+    "c": "C.data",
+    "d": "D.All of these",
+    "ans": "a",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.What is data in computer called?",
+    "a": "A.Sign and Numeric Information",
+    "b": "B.output",
+    "c": "C.The given information",
+    "d": "D.Number",
+    "ans": "a",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.What is the data going into the computer called?",
+    "a": "A.algorithm",
+    "b": "B.input",
+    "c": "C.data",
+    "d": "D.output",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.What is the meaning of data processing ?",
+    "a": "A.Performance of calculation",
+    "b": "B.Collection of data",
+    "c": "C.Working System of Computer",
+    "d": "D.Preparing Information for Commercial Use",
+    "ans": "d",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. What is converted into information by computer process?",
+    "a": "A.Number",
+    "b": "B.output",
+    "c": "C.data",
+    "d": "D.All statements are true",
+    "ans": "c",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. What is the first counting machine?",
+    "a": "A.Calculator",
+    "b": "B.abacus",
+    "c": "C.Clock",
+    "d": "D.Difference Engine",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.Who built the first mechanical calculator?",
+    "a": "A.Blaise Pascal",
+    "b": "B.John Mockley",
+    "c": "C.Howard Icon",
+    "d": "D.None of these",
+    "ans": "a",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.Who introduced the punch card?",
+    "a": "A.Jacquard",
+    "b": "B.powerus",
+    "c": "C.Harman Holorith",
+    "d": "D.Pascal",
+    "ans": "c",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. The basic structure of the computer was developed by?",
+    "a": "A.John Mauchly",
+    "b": "B.Jacquard",
+    "c": "C.Charles Babbage",
+    "d": "D.Blaise Pascal",
+    "ans": "c",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.Which of the following is the biggest, fastest and most expensive computer?",
+    "a": "A.Laptop",
+    "b": "B.Personal Computer",
+    "c": "C.Note Book",
+    "d": "D.Super Computer",
+    "ans": "d",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.Commonly used computer is?",
+    "a": "A.Digital Computer",
+    "b": "B.Optical Computer",
+    "c": "C.Hybrid Computer",
+    "d": "D.Analog Computer",
+    "ans": "a",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.What is CRAY?",
+    "a": "A.Microcomputer",
+    "b": "B. Mainframe Computer",
+    "c": "C.Mini Computer",
+    "d": "D.Super Computer",
+    "ans": "d",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. From which generation computer started the use of multi programming?",
+    "a": "A.First Generation",
+    "b": "B.3rd Generation",
+    "c": "C.4th Generation",
+    "d": "D.2nd Generation",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. When was the world's first supercomputer made?",
+    "a": "A.1981",
+    "b": "B.1980",
+    "c": "C.1976",
+    "d": "D.1995",
+    "ans": "c",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. What is the name of the first computer manufactured in India?",
+    "a": "A.Aryabhatta",
+    "b": "B.Siddharth",
+    "c": "C.Ashok",
+    "d": "D.Buddha",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. Which generation computer is microprocessor?",
+    "a": "A.First Generation",
+    "b": "B.2nd Generation",
+    "c": "C.3rd Generation",
+    "d": "D.4th Generation",
+    "ans": "d",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. What is the fastest computer?",
+    "a": "A.Mini Computer",
+    "b": "B.Microcomputer",
+    "c": "C.Mainframe Computer",
+    "d": "D.Super Computer",
+    "ans": "d",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. What type of computer is 'Param Computer' manufactured in India?",
+    "a": "A.Microcomputer",
+    "b": "B.Mini Computer",
+    "c": "C.Supercomputer",
+    "d": "D.Mainframe Computer",
+    "ans": "c",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. In which country was the computing plant abacus invented?",
+    "a": "A.Greece",
+    "b": "B.China",
+    "c": "C.India",
+    "d": "D.America",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.Who used the first punch card?",
+    "a": "A.Joseph Marie",
+    "b": "B.Charles Babbage",
+    "c": "C.John Mauchly",
+    "d": "D.None of these",
+    "ans": "a",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.Who built the analytical engine?",
+    "a": "A.G. Single",
+    "b": "B.Charles Babbage",
+    "c": "C.SIMEN CORSCOB",
+    "d": "D.Ava Lovelace",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. Who has contributed the most in the development of computer?",
+    "a": "A.Charles Babbage",
+    "b": "B.Joseph Jacquard",
+    "c": "C.von Neumann",
+    "d": "D.Blaise Pascal",
+    "ans": "c",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. Who developed the integrated circuit chip?",
+    "a": "A.Charles Babbage",
+    "b": "B.J.S. Kilby",
+    "c": "C. C.V. Raman",
+    "d": "D.Robert Nayak",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. What is the layer of material on the magnetic disk?",
+    "a": "A.Sodium Peroxide",
+    "b": "B.Iron Oxide",
+    "c": "C.magnesium oxide",
+    "d": "D.None of these",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. On what principle does digital computer work?",
+    "a": "A.Measurement",
+    "b": "B.Count",
+    "c": "C.Electrical",
+    "d": "D.Logical",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. Which organization has developed the 'Param' supercomputer developed in India?",
+    "a": "A.IIT, Kanpur",
+    "b": "B.IIT, Delhi",
+    "c": "C.C-DAC",
+    "d": "D.BARC",
+    "ans": "c",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.Which one is faster?",
+    "a": "A.Registers",
+    "b": "B.CD_ROM",
+    "c": "C.RAM",
+    "d": "D.Cache",
+    "ans": "a",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.Who made the first electronic computer - ENIAC?",
+    "a": "A.von Neumann",
+    "b": "B.Presper Eckert & John Moshley",
+    "c": "C.Joseph Marie",
+    "d": "D.None of these",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.dot matrix is type of device?",
+    "a": "A.mouse",
+    "b": "B.Keyboard",
+    "c": "C.scanner",
+    "d": "D.Printer",
+    "ans": "d",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. What is the number of 'Function Key' in keyboard?",
+    "a": "A.16",
+    "b": "B.19",
+    "c": "C.12",
+    "d": "D.14",
+    "ans": "c",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.Which of the following is not an input device?",
+    "a": "A.monitor",
+    "b": "B.Magnetic Tape",
+    "c": "C.Joy Stick",
+    "d": "D.Magnetic Disc",
+    "ans": "a",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. Which is the fastest printer?",
+    "a": "A.Jet Printer",
+    "b": "B.Laser Printer",
+    "c": "C.Thermal Printer",
+    "d": "D..printer",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.What is the full form of L.C.D?",
+    "a": "A.Lead Crystal Device",
+    "b": "B.Light Central Display",
+    "c": "C.Liquid Crystal Display",
+    "d": "D.Liquid Central Display",
+    "ans": "c",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. Represents the work put into the computer's memory?",
+    "a": "A.ROM",
+    "b": "B.RAM",
+    "c": "C.Printer",
+    "d": "D.monitor",
+    "ans": "d",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. What makes it easier to play the game?",
+    "a": "A.Keyboard",
+    "b": "B.mouse",
+    "c": "C.Joystick",
+    "d": "D.All of these",
+    "ans": "c",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.What are the keys for Ctrl, Shift and Alt?",
+    "a": "A.function",
+    "b": "B.Modifier",
+    "c": "C.alpha numeric",
+    "d": "D.None of these",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. What is the pattern of printed lines on most products called?",
+    "a": "A.Barcodes",
+    "b": "B.scanners",
+    "c": "C.price",
+    "d": "D.code",
+    "ans": "a",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.What is the full form of OCR?",
+    "a": "A.Optical CPU Recognition",
+    "b": "B.Optical Character Recognition",
+    "c": "C.Optical Character Rendering",
+    "d": "D.None of these",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.Which of the following is not an output device?",
+    "a": "A.Printer",
+    "b": "B.monitor",
+    "c": "C.Touchscreen",
+    "d": "D.plotter",
+    "ans": "c",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.The simplest storage device for a personal computer is?",
+    "a": "A.Pen Drive",
+    "b": "B.Floppy Disk",
+    "c": "C.Hard Disk Drive",
+    "d": "D.All of these",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.How to measure the display size of a monitor?",
+    "a": "A.Horizontally",
+    "b": "B.diagonally",
+    "c": "C.zig-zag",
+    "d": "D.vertically",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. Input device used to get printed diagram in computer is ?",
+    "a": "A.mouse",
+    "b": "B.Printer",
+    "c": "C.scanner",
+    "d": "D.Keyboard",
+    "ans": "c",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.Who made the first computer mouse?",
+    "a": "A.William English",
+    "b": "B.Douglas Engelbert",
+    "c": "C.Robert Jawaki",
+    "d": "D.None of these",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q.How many digits are there in binary number system?",
+    "a": "A.4",
+    "b": "B.1",
+    "c": "C.8",
+    "d": "D.2",
+    "ans": "d",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. What is the length of a word in a computer?",
+    "a": "A.bit",
+    "b": "B.megabyte",
+    "c": "C.file",
+    "d": "D.byte",
+    "ans": "a",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. What is a Logic Gate?",
+    "a": "A.A Special CD",
+    "b": "B.A Software",
+    "c": "C.A computer game",
+    "d": "D.A type of circuit",
+    "ans": "d",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. How is information stored on a computer?",
+    "a": "A.Analog Data",
+    "b": "B.Digital Data",
+    "c": "C.modem data",
+    "d": "D.watts data",
+    "ans": "b",
+    "max": "Z83"
+  },
+  {
+    "ques": "Q. Applies to all computers?",
+    "a": "A.Machine Language",
+    "b": "B.Cobol Language",
+    "c": "C.Basic Language",
+    "d": "D.Fortran Language",
+    "ans": "a",
+    "max": "Z83"
+  }
 ]
